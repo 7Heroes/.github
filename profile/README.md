@@ -1,32 +1,29 @@
-![7Heroes Studio: Real. Digital. Interactive.](assets/hero.png)
+![7Heroes Studio: Real. Digital. Interactive.](https://raw.githubusercontent.com/7Heroes/.github/refs/heads/main/profile/assets/hero.png)
 
-**We combine creative direction, software engineering, and visual production to build experiences across physical and digital spaces.**
+**Seven Heroes Studio brings together creative direction, software engineering, and visual production to build experiences across physical and digital spaces.**
 
-Our work spans interactive installations, immersive environments, custom applications, real-time simulation, and original games.
+We design and develop bespoke installations, immersive environments, applications, and real-time simulations for businesses and institutions, alongside our own original projects.
 
 ## What we build
 
-![Design. Develop. Connect.](assets/what-we-build.png)
+![Design. Develop. Connect.](https://raw.githubusercontent.com/7Heroes/.github/refs/heads/main/profile/assets/what-we-build.png)
 
 - **Real-time 3D & simulation**: virtual environments, simulators, and interactive configurators.
 - **Applications & digital systems**: web and mobile applications, dashboards, and control interfaces.
 - **Interactive & immersive experiences**: installations, spatial interaction, and AR, VR, and MR.
-- **Games & gamification**: original games, gameplay systems, and interactive learning.
+- **Experience design & engagement**: interactive learning, participation, and progression systems.
 - **Visual production & workflows**: generative visual workflows and Unreal Engine environments with real-time scenography controls.
 
 We bring design, development, and production together, from the initial concept to the working experience.
 
-## Original games
+## Our approach
 
-![Seven Heroes Indie: Worlds. Games. Stories.](assets/original-games.png)
+![Ideas. Craft. Purpose.](https://raw.githubusercontent.com/7Heroes/.github/refs/heads/main/profile/assets/our-approach.png)
 
-Through **Seven Heroes Indie**, we develop independent games with distinctive ideas, focused scope, and sustainable production.
+We believe in strong ideas with a clear identity. Our multidisciplinary experience brings creative direction, technical development, and production together from the start, giving each project a coherent vision and a practical path to delivery.
 
-**Currently in development**
+We balance creative ambition with focused scope and sustainable production. Whether developing an original concept or a bespoke experience, we shape the work around its purpose, audience, and available resources, with the same care for the idea and its execution.
 
-- **We'll Be Before Us**: a sci-fi puzzle game built around fractured time and cooperation with past versions of yourself.
-- **Hollow Skies**: a post-apocalyptic drone exploration and survival game built around flight, recovery, and customization.
-
-![Let's make it real.](assets/lets-make-it-real.png)
+![Let's make it real.](https://raw.githubusercontent.com/7Heroes/.github/refs/heads/main/profile/assets/lets-make-it-real.png)
 
 [sevenheroes.it](https://www.sevenheroes.it) · [direzione@sevenheroes.it](mailto:direzione@sevenheroes.it)
